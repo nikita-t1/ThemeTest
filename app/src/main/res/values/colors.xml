@@ -8,7 +8,14 @@
     <color name="two">#321321</color>
     <color name="three">#987987</color>
 
+    <color name="four">#AAB545</color>
+    <color name="five">#321FFF</color>
+    <color name="six">#9DDD87</color>
+
     <color name="bg1">#00ffff</color>
     <color name="bg2">#ffff00</color>
+
+    <color name="white">#ffffff</color>
+
 
 </resources>

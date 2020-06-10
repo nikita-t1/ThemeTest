@@ -28,5 +28,13 @@
         <item name="background">@color/bg1</item>
     </style>
 
+    <style name="AppTheme3" parent="AppTheme.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/four</item>
+        <item name="colorPrimaryDark">@color/five</item>
+        <item name="colorAccent">@color/six</item>
+        <item name="background">@color/white</item>
+    </style>
+
 
 </resources>
